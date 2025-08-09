@@ -67,4 +67,3 @@ const checkWinner = () => {
 };
 newgamebtn.addEventListener("click", resetgame);
 resetbtn.addEventListener("click", resetgame);
-git init
